@@ -1,1 +1,4 @@
 # ColliderSizeFloatPrecision
+
+
+在unity中使用物理引擎时 collider2d中的size float小数太多的话会导致一些误差，该脚本可以批量修改所有的prefab中collider2d的对象size 取小数点前两位
